@@ -1,0 +1,582 @@
+{
+  "mod_elements": [
+    {
+      "name": "Ballonminnie",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ballonminnie",
+      "metadata": {
+        "files": [
+          "src/main/java/net/lou/disney/item/BallonminnieItem.java",
+          "src/main/resources/assets/disney/models/item/ballonminnie.json"
+        ]
+      },
+      "path": "~/ballons"
+    },
+    {
+      "name": "Disney",
+      "type": "tab",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "disney",
+      "metadata": {
+        "files": []
+      }
+    },
+    {
+      "name": "BallonStitch",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ballon_stitch",
+      "metadata": {
+        "files": [
+          "src/main/java/net/lou/disney/item/BallonStitchItem.java",
+          "src/main/resources/assets/disney/models/item/ballon_stitch.json"
+        ]
+      },
+      "path": "~/ballons"
+    },
+    {
+      "name": "BallonBuzz",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ballon_buzz",
+      "metadata": {
+        "files": [
+          "src/main/java/net/lou/disney/item/BallonBuzzItem.java",
+          "src/main/resources/assets/disney/models/item/ballon_buzz.json"
+        ]
+      },
+      "path": "~/ballons"
+    },
+    {
+      "name": "BallonCitrouille",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ballon_citrouille",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/disney/models/item/ballon_citrouille.json",
+          "src/main/java/net/lou/disney/item/BallonCitrouilleItem.java"
+        ]
+      },
+      "path": "~/ballons"
+    },
+    {
+      "name": "ItsASmallWorld",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "its_a_small_world",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/disney/models/item/its_a_small_world.json",
+          "src/main/java/net/lou/disney/item/ItsASmallWorldItem.java"
+        ]
+      },
+      "path": "~/Disques"
+    },
+    {
+      "name": "PhantomManor",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "phantom_manor",
+      "metadata": {
+        "files": [
+          "src/main/java/net/lou/disney/item/PhantomManorItem.java",
+          "src/main/resources/assets/disney/models/item/phantom_manor.json"
+        ]
+      },
+      "path": "~/Disques"
+    },
+    {
+      "name": "PiratesOfCaraiban",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pirates_of_caraiban",
+      "metadata": {
+        "files": [
+          "src/main/java/net/lou/disney/item/PiratesOfCaraibanItem.java",
+          "src/main/resources/assets/disney/models/item/pirates_of_caraiban.json"
+        ]
+      },
+      "path": "~/Disques"
+    },
+    {
+      "name": "CarrouselDeLancelot",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "carrousel_de_lancelot",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/disney/models/item/carrousel_de_lancelot.json",
+          "src/main/java/net/lou/disney/item/CarrouselDeLancelotItem.java"
+        ]
+      },
+      "path": "~/Disques"
+    },
+    {
+      "name": "SpaceMountainMission2",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "space_mountain_mission_2",
+      "metadata": {
+        "files": [
+          "src/main/java/net/lou/disney/item/SpaceMountainMission2Item.java",
+          "src/main/resources/assets/disney/models/item/space_mountain_mission_2.json"
+        ]
+      },
+      "path": "~/Disques"
+    },
+    {
+      "name": "TourDeLaTerreurAmbiance",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "tour_de_la_terreur_ambiance",
+      "metadata": {
+        "files": [
+          "src/main/java/net/lou/disney/item/TourDeLaTerreurAmbianceItem.java",
+          "src/main/resources/assets/disney/models/item/tour_de_la_terreur_ambiance.json"
+        ]
+      },
+      "path": "~/Disques"
+    },
+    {
+      "name": "SacMickeyGrand",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sac_bob_grand",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/disney/models/item/sac_bob_grand.json",
+          "src/main/java/net/lou/disney/item/SacMickeyGrandItem.java"
+        ]
+      },
+      "path": "~/backpacks"
+    },
+    {
+      "name": "SacCaptainAmerica",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sac_captain_america",
+      "metadata": {
+        "files": [
+          "src/main/java/net/lou/disney/item/SacCaptainAmericaItem.java",
+          "src/main/resources/assets/disney/models/item/sac_captain_america.json"
+        ]
+      },
+      "path": "~/backpacks"
+    },
+    {
+      "name": "SacDlp",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sac_dlp",
+      "metadata": {
+        "files": [
+          "src/main/java/net/lou/disney/item/SacDlpItem.java",
+          "src/main/resources/assets/disney/models/item/sac_dlp.json"
+        ]
+      },
+      "path": "~/backpacks"
+    },
+    {
+      "name": "SacMinnie",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sac_minnie",
+      "metadata": {
+        "files": [
+          "src/main/java/net/lou/disney/item/SacMinnieItem.java",
+          "src/main/resources/assets/disney/models/item/sac_minnie.json"
+        ]
+      },
+      "path": "~/backpacks"
+    },
+    {
+      "name": "SacDlpPetit",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sac_dlp_petit",
+      "metadata": {
+        "files": [
+          "src/main/java/net/lou/disney/item/SacDlpPetitItem.java",
+          "src/main/resources/assets/disney/models/item/sac_dlp_petit.json"
+        ]
+      },
+      "path": "~/backpacks"
+    },
+    {
+      "name": "SacMinniePetit",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sac_minnie_petit",
+      "metadata": {
+        "files": [
+          "src/main/java/net/lou/disney/item/SacMinniePetitItem.java",
+          "src/main/resources/assets/disney/models/item/sac_minnie_petit.json"
+        ]
+      },
+      "path": "~/backpacks"
+    },
+    {
+      "name": "SacCaptaineAmericaGrand",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sac_captaine_america_grand",
+      "metadata": {
+        "files": [
+          "src/main/java/net/lou/disney/item/SacCaptaineAmericaGrandItem.java",
+          "src/main/resources/assets/disney/models/item/sac_captaine_america_grand.json"
+        ]
+      },
+      "path": "~/backpacks"
+    },
+    {
+      "name": "SacBobPetit",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sac_bob_petit",
+      "metadata": {
+        "files": [
+          "src/main/java/net/lou/disney/item/SacBobPetitItem.java",
+          "src/main/resources/assets/disney/models/item/sac_bob_petit.json"
+        ]
+      },
+      "path": "~/backpacks"
+    },
+    {
+      "name": "SacStitchPetit",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sac_stitch_petit",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/disney/models/item/sac_stitch_petit.json",
+          "src/main/java/net/lou/disney/item/SacStitchPetitItem.java"
+        ]
+      },
+      "path": "~/backpacks"
+    },
+    {
+      "name": "SacStitchGrand",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sac_stitch_grand",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/disney/models/item/sac_stitch_grand.json",
+          "src/main/java/net/lou/disney/item/SacStitchGrandItem.java"
+        ]
+      },
+      "path": "~/backpacks"
+    },
+    {
+      "name": "SacWinniePetit",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sac_winnie_petit",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/disney/models/item/sac_winnie_petit.json",
+          "src/main/java/net/lou/disney/item/SacWinniePetitItem.java"
+        ]
+      },
+      "path": "~/backpacks"
+    },
+    {
+      "name": "SacWinnieGrand",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sac_winnie_grand",
+      "metadata": {
+        "files": [
+          "src/main/java/net/lou/disney/item/SacWinnieGrandItem.java",
+          "src/main/resources/assets/disney/models/item/sac_winnie_grand.json"
+        ]
+      },
+      "path": "~/backpacks"
+    },
+    {
+      "name": "PeterPanFlight",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "peter_pan_flight",
+      "metadata": {
+        "files": [
+          "src/main/java/net/lou/disney/item/PeterPanFlightItem.java",
+          "src/main/resources/assets/disney/models/item/peter_pan_flight.json"
+        ]
+      },
+      "path": "~/Disques"
+    },
+    {
+      "name": "BigThunderMountain",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "big_thunder_mountain",
+      "metadata": {
+        "files": [
+          "src/main/java/net/lou/disney/item/BigThunderMountainItem.java",
+          "src/main/resources/assets/disney/models/item/big_thunder_mountain.json"
+        ]
+      },
+      "path": "~/Disques"
+    },
+    {
+      "name": "Ratatouille",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ratatouille",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/disney/models/item/ratatouille.json",
+          "src/main/java/net/lou/disney/item/RatatouilleItem.java"
+        ]
+      },
+      "path": "~/Disques"
+    },
+    {
+      "name": "BallonMickey",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ballon_mickey",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/disney/models/item/ballon_mickey.json",
+          "src/main/java/net/lou/disney/item/BallonMickeyItem.java"
+        ]
+      },
+      "path": "~/ballons"
+    },
+    {
+      "name": "BallonR2d2",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ballon_r_2d_2",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/disney/models/item/ballon_r_2d_2.json",
+          "src/main/java/net/lou/disney/item/BallonR2d2Item.java"
+        ]
+      },
+      "path": "~/ballons"
+    },
+    {
+      "name": "BallonUp",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ballon_up",
+      "metadata": {
+        "files": [
+          "src/main/java/net/lou/disney/item/BallonUpItem.java",
+          "src/main/resources/assets/disney/models/item/ballon_up.json"
+        ]
+      },
+      "path": "~/ballons"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [
+    {
+      "name": "poupee",
+      "files": [
+        "its-a-small-world-_la-maison-des-poupees_"
+      ],
+      "category": "neutral",
+      "subtitle": ""
+    },
+    {
+      "name": "carrousel",
+      "files": [
+        "le-carrousel-de-lancelot"
+      ],
+      "category": "neutral",
+      "subtitle": ""
+    },
+    {
+      "name": "pirates",
+      "files": [
+        "pirates-des-caraibes-pirates-of-the-caribbean"
+      ],
+      "category": "neutral",
+      "subtitle": ""
+    },
+    {
+      "name": "space",
+      "files": [
+        "space-mountain-mission-2"
+      ],
+      "category": "neutral",
+      "subtitle": ""
+    },
+    {
+      "name": "manor",
+      "files": [
+        "phantom-manor"
+      ],
+      "category": "neutral",
+      "subtitle": ""
+    },
+    {
+      "name": "tour_ambiance",
+      "files": [
+        "tower-of-terror-_la-tour-de-la-terreur_"
+      ],
+      "category": "neutral",
+      "subtitle": ""
+    },
+    {
+      "name": "peter",
+      "files": [
+        "peter-pans-flight"
+      ],
+      "category": "neutral",
+      "subtitle": ""
+    },
+    {
+      "name": "btm",
+      "files": [
+        "hq_-big-thunder-mountain-soundtrack-disneyland-paris"
+      ],
+      "category": "neutral",
+      "subtitle": ""
+    },
+    {
+      "name": "ratatouille",
+      "files": [
+        "ratatouille-the-adventure-soundtrack-disneyland-parijs"
+      ],
+      "category": "neutral",
+      "subtitle": ""
+    }
+  ],
+  "tag_elements": {
+    "ITEMS:minecraft:music_discs": [
+      "~CUSTOM:Ratatouille",
+      "~CUSTOM:BigThunderMountain",
+      "~CUSTOM:PeterPanFlight",
+      "~CUSTOM:TourDeLaTerreurAmbiance",
+      "~CUSTOM:SpaceMountainMission2",
+      "~CUSTOM:CarrouselDeLancelot",
+      "~CUSTOM:PiratesOfCaraiban",
+      "~CUSTOM:PhantomManor",
+      "~CUSTOM:ItsASmallWorld"
+    ]
+  },
+  "tab_element_order": {},
+  "language_map": {
+    "en_us": {
+      "subtitles.tour_ambiance": "",
+      "item.disney.phantom_manor": "Phantom Manor",
+      "item.disney.ratatouille": "Ratatouille",
+      "item.disney.its_a_small_world.desc": "It\u0027s a small world",
+      "item.disney.ballon_stitch": "Ballon Stitch",
+      "subtitles.pirates": "",
+      "subtitles.manor": "",
+      "item.disney.ballon_r_2d_2": "Ballon R 2d 2",
+      "item.disney.tour_de_la_terreur_ambiance.desc": "Bienvenue dans la Tour de la Terreur ! Welcome in th Tower of Terror !",
+      "subtitles.btm": "",
+      "item.disney.sac_minnie": "Sac Minnie",
+      "subtitles.peter": "",
+      "item.disney.space_mountain_mission_2.desc": "Space Mountain Mission 2",
+      "item.disney.carrousel_de_lancelot.desc": "Carroussel de Lancelot",
+      "item.disney.sac_winnie_petit": "Sac Winnie Petit",
+      "item.disney.ballon_buzz": "Ballon Buzz",
+      "item.disney.sac_winnie_grand": "Sac Winnie Grand",
+      "item.disney.tour_de_la_terreur_ambiance": "Tour De La Terreur Ambiance",
+      "item.disney.phantom_manor.desc": "Phantom Manor ouhhhhhhhhhhhhhhhhhhhh",
+      "item.disney.its_a_small_world": "Its A Small World",
+      "subtitles.manoir": "",
+      "item.disney.peter_pan_flight.desc": "Peter Pan Flight",
+      "subtitles.fantome": "",
+      "item.music_disney.ballonminnie": "Ballonminnie",
+      "item.disney.carrousel_de_lancelot": "Carrousel De Lancelot",
+      "subtitles.ratatouille": "",
+      "item.disney.big_thunder_mountain.desc": "Big Thunder Mountain",
+      "item.disney.ballon_citrouille": "Ballon Citrouille",
+      "item.disney.pirates_of_caraiban.desc": "Pirates de Caraïbes",
+      "subtitles.carrousel": "",
+      "item.disney.sac_dlp": "Sac Dlp",
+      "item.disney.ballon_up": "Ballon Up",
+      "item.disney.pirates_of_caraiban": "Pirates Of Caraiban",
+      "item.disney.sac_captaine_america_grand": "Sac Captaine America Grand",
+      "item.disney.sac_stitch_petit": "Sac Stitch Petit",
+      "item_group.disney.disney": "Disney",
+      "item.disney.big_thunder_mountain": "Big Thunder Mountain",
+      "item.disney.sac_stitch_grand": "Sac Stitch Grand",
+      "item.disney.ratatouille.desc": "Ratatouille",
+      "item.disney.ballon_mickey": "Ballon Mickey",
+      "item.disney.peter_pan_flight": "Peter Pan Flight",
+      "item.disney.space_mountain_mission_2": "Space Mountain Mission 2",
+      "subtitles.space": "",
+      "item.disney.ballonminnie": "Ballon Minnie",
+      "subtitles.poupee": "",
+      "item.disney.sac_bob_grand": "Sac Bob Grand",
+      "item.disney.sac_captain_america": "Sac Captain America",
+      "item.disney.sac_dlp_petit": "Sac Dlp Petit",
+      "item.disney.sac_minnie_petit": "Sac Minnie Petit",
+      "item.disney.sac_bob_petit": "Sac Bob Petit"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": [
+      {
+        "name": "ballons",
+        "children": []
+      },
+      {
+        "name": "Disques",
+        "children": []
+      },
+      {
+        "name": "backpacks",
+        "children": []
+      }
+    ]
+  },
+  "workspaceSettings": {
+    "modid": "disney",
+    "modName": "Disney",
+    "version": "1.0.0",
+    "author": "Lou",
+    "license": "Academic Free License v3.0",
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.20.1",
+    "credits": "Certaines textures et models proviennent du serveur Minecraft MineDisney : https://www.minedisney.com",
+    "modElementsPackage": "net.lou.disney"
+  },
+  "mcreatorVersion": 202500105718
+}

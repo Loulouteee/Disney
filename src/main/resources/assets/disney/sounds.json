@@ -1,0 +1,74 @@
+{
+  "poupee": {
+    "sounds": [
+      {
+        "name": "disney:its-a-small-world-_la-maison-des-poupees_",
+        "stream": false
+      }
+    ]
+  },
+  "carrousel": {
+    "sounds": [
+      {
+        "name": "disney:le-carrousel-de-lancelot",
+        "stream": false
+      }
+    ]
+  },
+  "pirates": {
+    "sounds": [
+      {
+        "name": "disney:pirates-des-caraibes-pirates-of-the-caribbean",
+        "stream": false
+      }
+    ]
+  },
+  "space": {
+    "sounds": [
+      {
+        "name": "disney:space-mountain-mission-2",
+        "stream": false
+      }
+    ]
+  },
+  "manor": {
+    "sounds": [
+      {
+        "name": "disney:phantom-manor",
+        "stream": false
+      }
+    ]
+  },
+  "tour_ambiance": {
+    "sounds": [
+      {
+        "name": "disney:tower-of-terror-_la-tour-de-la-terreur_",
+        "stream": false
+      }
+    ]
+  },
+  "peter": {
+    "sounds": [
+      {
+        "name": "disney:peter-pans-flight",
+        "stream": false
+      }
+    ]
+  },
+  "btm": {
+    "sounds": [
+      {
+        "name": "disney:hq_-big-thunder-mountain-soundtrack-disneyland-paris",
+        "stream": false
+      }
+    ]
+  },
+  "ratatouille": {
+    "sounds": [
+      {
+        "name": "disney:ratatouille-the-adventure-soundtrack-disneyland-parijs",
+        "stream": false
+      }
+    ]
+  }
+}

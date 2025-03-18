@@ -1,0 +1,14 @@
+{
+  "parent": "disney:custom/mike_up",
+  "textures": {
+    "0": "minecraft:block/gray_wool",
+    "13": "minecraft:block/light_blue_concrete",
+    "4": "minecraft:block/light_gray_concrete",
+    "5": "minecraft:block/black_concrete",
+    "7": "minecraft:block/yellow_concrete",
+    "8": "disney:block/toonstudio",
+    "9": "disney:block/monsterinc_bob",
+    "10": "minecraft:block/white_concrete",
+    "particle": "minecraft:item/scute"
+  }
+}

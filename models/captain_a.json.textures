@@ -1,0 +1,17 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "minecraft:gray_wool",
+        "4": "minecraft:light_gray_concrete",
+        "5": "minecraft:blue_concrete",
+        "6": "minecraft:red_concrete",
+        "7": "minecraft:white_concrete",
+        "8": "minecraft:brown_concrete",
+        "9": "minecraft:brown_concrete_powder",
+        "10": "minecraft:black_concrete"
+      },
+      "name": "default"
+    }
+  }
+}

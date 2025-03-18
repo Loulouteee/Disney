@@ -1,0 +1,10 @@
+{
+  "parent": "disney:custom/stitch_up",
+  "textures": {
+    "0": "minecraft:block/gray_wool",
+    "1": "minecraft:block/pink_concrete",
+    "4": "minecraft:block/light_gray_concrete",
+    "7": "disney:block/backpack_stitch",
+    "particle": "disney:item/backpack_stitch"
+  }
+}

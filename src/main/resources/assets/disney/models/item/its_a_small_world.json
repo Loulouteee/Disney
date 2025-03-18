@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "disney:item/its_a_small_world_ddddisque"
+  }
+}

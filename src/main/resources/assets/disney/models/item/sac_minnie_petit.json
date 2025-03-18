@@ -1,0 +1,12 @@
+{
+  "parent": "disney:custom/minnie",
+  "textures": {
+    "0": "minecraft:block/gray_wool",
+    "1": "minecraft:block/red_concrete",
+    "2": "minecraft:block/white_concrete",
+    "3": "minecraft:block/black_concrete",
+    "4": "minecraft:block/light_gray_concrete",
+    "7": "minecraft:block/red_concrete_powder",
+    "particle": "disney:item/backpack_minnie"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "minecraft:gray_wool",
+        "22": "backpack_dlpcastle",
+        "4": "minecraft:light_gray_concrete",
+        "5": "minecraft:black_concrete",
+        "18": "minecraft:light_blue_concrete",
+        "9": "minecraft:white_concrete"
+      },
+      "name": "default"
+    }
+  }
+}

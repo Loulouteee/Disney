@@ -1,0 +1,8 @@
+{
+  "parent": "disney:custom/ballon_stitch",
+  "textures": {
+    "1": "disney:block/baloons",
+    "2": "minecraft:block/birch_planks",
+    "particle": "minecraft:item/clock_42"
+  }
+}

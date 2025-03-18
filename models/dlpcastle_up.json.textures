@@ -1,0 +1,23 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "11": "minecraft:pink_concrete",
+        "22": "backpack_dlpcastle",
+        "12": "minecraft:gold_block",
+        "13": "minecraft:quartz_block_bottom",
+        "14": "minecraft:stone",
+        "15": "minecraft:green_concrete",
+        "16": "minecraft:oak_planks",
+        "18": "minecraft:stone",
+        "0": "minecraft:gray_wool",
+        "4": "minecraft:light_gray_concrete",
+        "5": "minecraft:black_concrete",
+        "7": "minecraft:blue_concrete",
+        "9": "minecraft:white_concrete",
+        "10": "minecraft:stone_bricks"
+      },
+      "name": "default"
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "parent": "disney:custom/winnie",
+  "textures": {
+    "0": "minecraft:block/gray_wool",
+    "1": "minecraft:block/red_concrete_powder",
+    "3": "minecraft:block/yellow_concrete_powder",
+    "4": "minecraft:block/light_gray_concrete",
+    "5": "minecraft:block/black_concrete",
+    "6": "minecraft:block/brown_concrete",
+    "particle": "minecraft:item/honeycomb"
+  }
+}

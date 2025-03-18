@@ -1,0 +1,17 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "minecraft:gray_wool",
+        "13": "minecraft:light_blue_concrete",
+        "4": "minecraft:light_gray_concrete",
+        "5": "minecraft:black_concrete",
+        "7": "minecraft:yellow_concrete",
+        "8": "toonstudio",
+        "9": "monsterinc_bob",
+        "10": "minecraft:white_concrete"
+      },
+      "name": "default"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "minecraft:gray_wool",
+        "1": "minecraft:pink_concrete",
+        "4": "minecraft:light_gray_concrete",
+        "7": "backpack_stitch"
+      },
+      "name": "default"
+    }
+  }
+}

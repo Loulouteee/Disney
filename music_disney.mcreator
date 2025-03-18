@@ -1,0 +1,276 @@
+{
+  "mod_elements": [
+    {
+      "name": "Ballonminnie",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ballonminnie",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/musicdisney/item/BallonminnieItem.java",
+          "src/main/resources/assets/disney/models/item/ballonminnie.json"
+        ]
+      },
+      "path": "~/ballons"
+    },
+    {
+      "name": "Disney",
+      "type": "tab",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "disney",
+      "metadata": {
+        "files": []
+      }
+    },
+    {
+      "name": "BallonStitch",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ballon_stitch",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/musicdisney/item/BallonStitchItem.java",
+          "src/main/resources/assets/disney/models/item/ballon_stitch.json"
+        ]
+      },
+      "path": "~/ballons"
+    },
+    {
+      "name": "BallonBuzz",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ballon_buzz",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/musicdisney/item/BallonBuzzItem.java",
+          "src/main/resources/assets/disney/models/item/ballon_buzz.json"
+        ]
+      },
+      "path": "~/ballons"
+    },
+    {
+      "name": "BallonCitrouille",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ballon_citrouille",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/musicdisney/item/BallonCitrouilleItem.java",
+          "src/main/resources/assets/disney/models/item/ballon_citrouille.json"
+        ]
+      },
+      "path": "~/ballons"
+    },
+    {
+      "name": "ItsASmallWorld",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "its_a_small_world",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/disney/models/item/its_a_small_world.json",
+          "src/main/java/net/mcreator/musicdisney/item/ItsASmallWorldItem.java"
+        ]
+      },
+      "path": "~/Disques"
+    },
+    {
+      "name": "PhantomManor",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "phantom_manor",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/musicdisney/item/PhantomManorItem.java",
+          "src/main/resources/assets/disney/models/item/phantom_manor.json"
+        ]
+      },
+      "path": "~/Disques"
+    },
+    {
+      "name": "PiratesOfCaraiban",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pirates_of_caraiban",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/musicdisney/item/PiratesOfCaraibanItem.java",
+          "src/main/resources/assets/disney/models/item/pirates_of_caraiban.json"
+        ]
+      },
+      "path": "~/Disques"
+    },
+    {
+      "name": "CarrouselDeLancelot",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "carrousel_de_lancelot",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/disney/models/item/carrousel_de_lancelot.json",
+          "src/main/java/net/mcreator/musicdisney/item/CarrouselDeLancelotItem.java"
+        ]
+      },
+      "path": "~/Disques"
+    },
+    {
+      "name": "SpaceMountainMission2",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "space_mountain_mission_2",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/musicdisney/item/SpaceMountainMission2Item.java",
+          "src/main/resources/assets/disney/models/item/space_mountain_mission_2.json"
+        ]
+      },
+      "path": "~/Disques"
+    },
+    {
+      "name": "TourDeLaTerreurAmbiance",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "tour_de_la_terreur_ambiance",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/disney/models/item/tour_de_la_terreur_ambiance.json",
+          "src/main/java/net/mcreator/musicdisney/item/TourDeLaTerreurAmbianceItem.java"
+        ]
+      },
+      "path": "~/Disques"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [
+    {
+      "name": "poupee",
+      "files": [
+        "its-a-small-world-_la-maison-des-poupees_"
+      ],
+      "category": "neutral",
+      "subtitle": ""
+    },
+    {
+      "name": "carrousel",
+      "files": [
+        "le-carrousel-de-lancelot"
+      ],
+      "category": "neutral",
+      "subtitle": ""
+    },
+    {
+      "name": "pirates",
+      "files": [
+        "pirates-des-caraibes-pirates-of-the-caribbean"
+      ],
+      "category": "neutral",
+      "subtitle": ""
+    },
+    {
+      "name": "space",
+      "files": [
+        "space-mountain-mission-2"
+      ],
+      "category": "neutral",
+      "subtitle": ""
+    },
+    {
+      "name": "manor",
+      "files": [
+        "phantom-manor"
+      ],
+      "category": "neutral",
+      "subtitle": ""
+    },
+    {
+      "name": "tour_ambiance",
+      "files": [
+        "tower-of-terror-_la-tour-de-la-terreur_"
+      ],
+      "category": "neutral",
+      "subtitle": ""
+    }
+  ],
+  "tag_elements": {
+    "ITEMS:minecraft:music_discs": [
+      "~CUSTOM:TourDeLaTerreurAmbiance",
+      "~CUSTOM:SpaceMountainMission2",
+      "~CUSTOM:CarrouselDeLancelot",
+      "~CUSTOM:PiratesOfCaraiban",
+      "~CUSTOM:PhantomManor",
+      "~CUSTOM:ItsASmallWorld"
+    ]
+  },
+  "tab_element_order": {},
+  "language_map": {
+    "en_us": {
+      "item.disney.ballon_citrouille": "Ballon Citrouille",
+      "subtitles.tour_ambiance": "",
+      "item.disney.phantom_manor": "Phantom Manor",
+      "item.disney.pirates_of_caraiban.desc": "Pirates de Caraïbes",
+      "subtitles.carrousel": "",
+      "item.disney.pirates_of_caraiban": "Pirates Of Caraiban",
+      "item.disney.its_a_small_world.desc": "It\u0027s a small world",
+      "item.disney.ballon_stitch": "Ballon Stitch",
+      "subtitles.pirates": "",
+      "item_group.disney.disney": "Disney",
+      "subtitles.manor": "",
+      "item.disney.tour_de_la_terreur_ambiance.desc": "Bienvenue dans la Tour de la Terreur ! Welcome in th Tower of Terror !",
+      "item.disney.space_mountain_mission_2": "Space Mountain Mission 2",
+      "item.disney.space_mountain_mission_2.desc": "Space Mountain Mission 2",
+      "subtitles.space": "",
+      "item.disney.ballonminnie": "Ballon Minnie",
+      "item.disney.carrousel_de_lancelot.desc": "Carroussel de Lancelot",
+      "item.disney.ballon_buzz": "Ballon Buzz",
+      "subtitles.poupee": "",
+      "item.disney.tour_de_la_terreur_ambiance": "Tour De La Terreur Ambiance",
+      "item.disney.phantom_manor.desc": "Phantom Manor ouhhhhhhhhhhhhhhhhhhhh",
+      "item.disney.its_a_small_world": "Its A Small World",
+      "subtitles.manoir": "",
+      "subtitles.fantome": "",
+      "item.music_disney.ballonminnie": "Ballonminnie",
+      "item.disney.carrousel_de_lancelot": "Carrousel De Lancelot"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": [
+      {
+        "name": "ballons",
+        "children": []
+      },
+      {
+        "name": "Disques",
+        "children": []
+      }
+    ]
+  },
+  "workspaceSettings": {
+    "modid": "disney",
+    "modName": "Disney",
+    "version": "1.0.0",
+    "author": "Lou, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "license": "Academic Free License v3.0",
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.20.1",
+    "credits": "Created using mod maker MCreator - https://mcreator.net/about",
+    "modElementsPackage": "net.mcreator.musicdisney"
+  },
+  "mcreatorVersion": 202500105718
+}

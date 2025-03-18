@@ -1,0 +1,13 @@
+{
+  "parent": "disney:custom/captain_a_up",
+  "textures": {
+    "0": "minecraft:block/gray_wool",
+    "4": "minecraft:block/light_gray_concrete",
+    "5": "minecraft:block/blue_concrete",
+    "6": "minecraft:block/red_concrete",
+    "7": "minecraft:block/white_concrete",
+    "8": "minecraft:block/brown_concrete",
+    "9": "minecraft:block/brown_concrete_powder",
+    "particle": "minecraft:item/clock_40"
+  }
+}

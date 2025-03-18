@@ -1,0 +1,11 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "2": "minecraft:birch_planks",
+        "3": "balloon_r2d2"
+      },
+      "name": "default"
+    }
+  }
+}

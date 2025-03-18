@@ -1,0 +1,17 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "minecraft:gray_wool",
+        "11": "minecraft:oxeye_daisy",
+        "1": "minecraft:red_concrete",
+        "3": "minecraft:yellow_concrete_powder",
+        "4": "minecraft:light_gray_concrete",
+        "5": "minecraft:black_concrete",
+        "6": "minecraft:brown_concrete",
+        "10": "minecraft:sunflower_front"
+      },
+      "name": "default"
+    }
+  }
+}

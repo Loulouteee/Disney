@@ -1,0 +1,11 @@
+{
+  "parent": "disney:custom/ballon_citrouille",
+  "textures": {
+    "2": "minecraft:block/birch_planks",
+    "3": "disney:block/pumpkin_stem_green",
+    "4": "minecraft:block/pumpkin_side",
+    "5": "minecraft:block/pumpkin_top",
+    "6": "minecraft:block/carved_pumpkin",
+    "particle": "minecraft:item/pumpkin_pie"
+  }
+}

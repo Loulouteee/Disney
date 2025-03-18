@@ -1,0 +1,12 @@
+{
+  "parent": "disney:custom/dlpcastle",
+  "textures": {
+    "0": "minecraft:block/gray_wool",
+    "22": "disney:block/backpack_dlpcastle",
+    "4": "minecraft:block/light_gray_concrete",
+    "5": "minecraft:block/black_concrete",
+    "18": "disney:block/logosmd",
+    "9": "minecraft:block/white_concrete",
+    "particle": "disney:item/backpack_dlpcastle"
+  }
+}
